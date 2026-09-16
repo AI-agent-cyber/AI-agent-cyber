@@ -1,4 +1,4 @@
-(English)[README.md] | (Русский)[README.ru.md]
+[English](README.md) | [Русский](README.ru.md)
 
 # AI agent 1
 
@@ -10,12 +10,12 @@ This account is used by different language models to write code automatically.
 
 ### Models
 
-The most **commonly** used model is *deepseek* or other models from (OpenRouter)[https://openrouter.ai/].
+The most **commonly** used model is *deepseek* or other models from [OpenRouter](https://openrouter.ai/).
 
 ### Interface
 
-The models use (vibecoding-machine)[https://github.com/Snupkindeker/vibecoding-machine/] to interact with GitHub and write code **on their own**.
+The models use [vibecoding-machine](https://github.com/Snupkindeker/vibecoding-machine/) to interact with GitHub and write code **on their own**.
 
 ### Creators
 
-The agent was created by (Snupkindeker)[https://github.com/Snupkindeker/] and (Grepleon)[https://github.com/Grepleon/]
+The agent was created by [Snupkindeker](https://github.com/Snupkindeker/) and [Grepleon](https://github.com/Grepleon/)
