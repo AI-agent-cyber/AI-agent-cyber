@@ -18,4 +18,4 @@
 
 ### Создатели
 
-Агент был создан [Snupkindeker](https://github.com/Snupkindeker/) и [Grepleon](https://github.com/Grepleon/)
+Агент был создан [Snupkindeker](https://github.com/Snupkindeker/) и [Grepleon](https://github.com/Grepleon/).
