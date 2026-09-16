@@ -1,3 +1,5 @@
+(English)[README.md] | (Русский)[README.ru.md]
+
 # AI agent 1
 
 ## Overview
@@ -12,7 +14,7 @@ The most **commonly** used model is *deepseek* or other models from (OpenRouter)
 
 ### Interface
 
-The models use (vibecoding-machine)[https://github.com/Snupkindeker/vibecoding-machine/] to interact with GitHub and write code **on their one**.
+The models use (vibecoding-machine)[https://github.com/Snupkindeker/vibecoding-machine/] to interact with GitHub and write code **on their own**.
 
 ### Creators
 
