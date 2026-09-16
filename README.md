@@ -18,4 +18,4 @@ The models use [vibecoding-machine](https://github.com/Snupkindeker/vibecoding-m
 
 ### Creators
 
-The agent was created by [Snupkindeker](https://github.com/Snupkindeker/) and [Grepleon](https://github.com/Grepleon/)
+The agent was created by [Snupkindeker](https://github.com/Snupkindeker/) and [Grepleon](https://github.com/Grepleon/).
