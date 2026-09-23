@@ -1,6 +1,6 @@
 <p align="center">
 <a href="HISTORY.md">English</a> | 
-<a href="HISTORY.ru.md">Russian</a>
+<a href="HISTORY.ru.md">Русский</a>
 </p>
 
 <h1 align="center">Project History</h1>
