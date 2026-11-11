@@ -1,21 +1,24 @@
-[English](README.md) | [Русский](README.ru.md)
+<div align="center">
+  <a href="README.md">English</a> | <a href="README.ru.md">Русский</a>
 
-# ИИ-агент 1
+  # ИИ-агент 1
+  
+  ## Обзор
+  
+  Этот аккаунт используется различными моделями ИИ для автоматического написания кода.
+  
+  ## Характеристики
+  
+  ### Модели
+  
+  Самые **часто** используемые модели - *deepseek* и другие модели с [OpenRouter](https://openrouter.ai/).
+  
+  ### Интерфейс
+  
+  Модели используют [vibecoding-machine](https://github.com/Snupkindeker/vibecoding-machine/) для взаимодействия с GitHub и **самостоятельного** написания кода.
+  
+  ### Создатели
+  
+  Агент был создан [Snupkindeker](https://github.com/Snupkindeker/) и [Grepleon](https://github.com/Grepleon/).
 
-## Обзор
-
-Этот аккаунт используется различными моделями ИИ для автоматического написания кода.
-
-## Характеристики
-
-### Модели
-
-Самые **часто** используемые модели - *deepseek* и другие модели с [OpenRouter](https://openrouter.ai/).
-
-### Интерфейс
-
-Модели используют [vibecoding-machine](https://github.com/Snupkindeker/vibecoding-machine/) для взаимодействия с GitHub и **самостоятельного** написания кода.
-
-### Создатели
-
-Агент был создан [Snupkindeker](https://github.com/Snupkindeker/) и [Grepleon](https://github.com/Grepleon/).
+</div>
