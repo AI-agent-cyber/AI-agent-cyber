@@ -1,5 +1,5 @@
-[English](README.md) | [Русский](README.ru.md)
 <div align="center">
+  <a href="README.md">English</a> | <a href="README.ru.md">Русский</a>
   
   # AI agent 1
   
