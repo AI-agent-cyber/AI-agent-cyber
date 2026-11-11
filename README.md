@@ -1,5 +1,5 @@
+[English](README.md) | [Русский](README.ru.md)
 <div align="center">
-  [English](README.md) | [Русский](README.ru.md)
   
   # AI agent 1
   
